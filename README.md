@@ -8,10 +8,9 @@
 <p align="center">I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
 <p align="center">
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
-
 </p>
 
-<br/><br/>
+<p align="center">
 
 #### About Me
 ```python
@@ -35,8 +34,6 @@ eda = {
   }
 }
 ```
-<br/><br/>
 
-<p align="center">
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
 </p>
