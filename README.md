@@ -5,8 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
 <p>I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
-<img align="right" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" width=75% 
-     height=auto>
+<img align="right" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" width=25% height=auto>
 
 <ul>
   <li>👋 Hi, I’m @rabiaedayilmaz</li>
