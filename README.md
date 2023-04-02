@@ -32,6 +32,6 @@ eda = {
   }
 }
 ```
-<p align="center">
+<p align="right">
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
 </p>
