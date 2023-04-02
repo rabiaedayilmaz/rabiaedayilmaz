@@ -1,8 +1,6 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/rabiaedayilmaz">Rabia Eda Yılmaz</a>'s Profile 👋</h1>
 </p>
-<br/><br/>
-<br/><br/>
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
@@ -11,13 +9,6 @@
 <img align="right" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" width=50% height=auto>
 
 <br/><br/>
-
-<ul>
-  <li>👋 Hi, I’m @rabiaedayilmaz</li>
-  <li>❤️ I love Machine Learning and squishy brain stuff.</li>
-  <li>🌱 Currently and constantly improving my skills and learning everyday.</li>
-  <li>👾 My Website, https://rabiaedayilmaz.github.io</li>
-</ul>
 
 #### About Me
 ```python
@@ -33,6 +24,11 @@ eda = {
             technologies: ["tensorflow", "pytorch"],
             tools: ["sql", "docker", "git"]
             platforms: ["linux"],
+  }
+  links: {
+            website: "https://rabiaedayilmaz.github.io",
+            linkedin: "https://www.linkedin.com/in/rabiaedayilmaz/",
+            kaggle: "https://www.kaggle.com/truthisneverlinear",
   }
 }
 ```
