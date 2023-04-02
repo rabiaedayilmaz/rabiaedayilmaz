@@ -33,7 +33,7 @@ eda = {
 }
 ```
 <p align="center">
-<a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/blob/main/rabia_eda_yilmaz_cv.pdf" style="color:#CBC3E3;">My Resume</a>
+<a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/blob/main/rabia_eda_yilmaz_cv.pdf" style="color:rgb(203, 195, 227);">My Resume</a>
 </p>
 
 <p align="center">
