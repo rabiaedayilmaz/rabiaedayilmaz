@@ -32,6 +32,6 @@ eda = {
   }
 }
 ```
-<p align="center">
+<p align="center"> <a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/rabia_eda_yilmaz_cv.pdf">My Resume</a>
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
 </p>
