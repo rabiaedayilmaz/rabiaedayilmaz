@@ -6,6 +6,7 @@
 </p>
 <p>I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
 <img align="right" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" width=50% height=auto>
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif" width=50% height=auto>
 
 <ul>
   <li>👋 Hi, I’m @rabiaedayilmaz</li>
@@ -31,6 +32,3 @@ eda = {
   }
 }
 ```
-
-<p>Oh, and do not forget to check out my website.</p>
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
