@@ -25,7 +25,7 @@ eda = {
             ["python", "machine learning", "deep learning",
             "books", "neuroscience", "birds"],
   technologies: {
-            ML: ["tensorflow", "pytorch"],
+            technologies: ["tensorflow", "pytorch"],
             tools: ["sql", "docker", "git"]
             platforms: ["linux"],
   }
