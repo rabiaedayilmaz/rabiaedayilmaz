@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
+  <a align="center"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
 <h3 align="center">I am an AI enthusiast and try to figure out the mystery of the brain every 42 seconds of the day.</h3>
 <p align="center">
@@ -32,6 +32,9 @@ eda = {
   }
 }
 ```
-<p align="center"> <a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/rabia_eda_yilmaz_cv.pdf">My Resume</a>
+
+<a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/rabia_eda_yilmaz_cv.pdf">My Resume</a>
+
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
 </p>
