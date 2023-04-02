@@ -14,8 +14,6 @@
   <li>👾 My Website, https://rabiaedayilmaz.github.io</li>
 </ul>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif" width=50% height=auto>
-
 #### About Me
 ```python
 eda = {
@@ -33,3 +31,5 @@ eda = {
   }
 }
 ```
+
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif" width=50% height=auto>
