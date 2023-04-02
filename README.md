@@ -5,7 +5,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
-<h3 align="center">I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</h3>
+<h3 align="center">I am an AI enthusiast and try to figure out the mystery of the brain every 42 seconds of the day.</h3>
 <p align="center">
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 </p>
