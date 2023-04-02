@@ -10,6 +10,9 @@
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 </p>
 
+<p align="right">
+<p align="left">
+
 #### About Me
 ```python
 eda = {
@@ -32,6 +35,6 @@ eda = {
   }
 }
 ```
-<p align="right">
+</p>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
 </p>
