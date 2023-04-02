@@ -6,7 +6,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
 <p>I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
-<a align="center" href="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" width=50% height=auto>
+<a align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 
 <br/><br/>
 
