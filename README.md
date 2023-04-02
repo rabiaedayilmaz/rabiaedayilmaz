@@ -17,7 +17,7 @@ eda = {
   code: 
         ["Python", "C/C++", "MATLAB",
         "Javascript", "HTML", "CSS"],
-  askMeAbout: 
+  interests: 
             ["python", "machine learning", "deep learning",
             "books", "neuroscience", "birds"],
   technologies: {
