@@ -1,6 +1,9 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/rabiaedayilmaz">Rabia Eda Yılmaz</a>'s Profile 👋</h1>
 </p>
+<br/><br/>
+<br/><br/>
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
@@ -35,4 +38,4 @@ eda = {
 ```
 <br/><br/>
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif" width=50% height=auto>
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
