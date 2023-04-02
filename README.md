@@ -5,7 +5,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
-<p>I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
+<p align="center">I am an AI enthusiast and try to figure out mystery of the brain every 42 seconds of the day.</p>
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 
 <br/><br/>
@@ -34,4 +34,6 @@ eda = {
 ```
 <br/><br/>
 
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
+</p>
