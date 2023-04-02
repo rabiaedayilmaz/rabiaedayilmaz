@@ -22,7 +22,7 @@ eda = {
             "books", "neuroscience", "birds", "art"],
   technologies: {
             technologies: ["tensorflow", "pytorch"],
-            tools: ["sql", "docker", "git"]
+            tools: ["sql", "docker", "git"],
             platforms: ["linux"],
   }
   links: {
