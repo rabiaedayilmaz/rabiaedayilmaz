@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Rabia Eda Yılmaz</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/rabiaedayilmaz">Rabia Eda Yılmaz</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
