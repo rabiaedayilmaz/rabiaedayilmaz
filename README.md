@@ -5,7 +5,7 @@
 <p align="center">
   <a align="center"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
 </p>
-<h3 align="center">I am an AI enthusiast and try to figure out the mystery of the brain every 42 seconds of the day.</h3>
+<h4 align="center">I am an AI enthusiast and try to figure out the mystery of the brain every 42 seconds of the day.</h4>
 <p align="center">
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 </p>
@@ -32,9 +32,9 @@ eda = {
   }
 }
 ```
-<p align="center">
+<h3 align="center">
 <a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/blob/main/rabia_eda_yilmaz_cv.pdf" style="color:purple;">My Resume</a>
-</p>
+</h3>
 
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5OTNiZmE0ZDZhM2ZkNDgxZmNiMjgyMDFjMTNmZDdmY2M1MmUwMyZjdD1n/3VLajsSQMEMxvQQv8N/giphy.gif">
