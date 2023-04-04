@@ -2,13 +2,6 @@
   <h1 align="center">Welcome to <a href="https://github.com/rabiaedayilmaz">Rabia Eda Yılmaz</a>'s Profile 👋</h1>
 </p>
 
-<p align="center">
-  <a align="center"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
-</p>
-<p align="center">
-<img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
-</p>
-
 #### About Me :bird:
 ```python
 eda = {
@@ -34,3 +27,10 @@ eda = {
 <h3 align="center">
 <a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/blob/main/rabia_eda_yilmaz_cv.pdf" style="color:purple;">My Resume</a>
 </h3>
+
+<p align="center">
+  <a align="center"><img src="https://bestanimations.com/media/computers/451223912funny-computer-animated-gif-49.gif#.ZCnsJElFa3M.link" /></a>
+</p>
+<p align="center">
+<img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
+</p>
