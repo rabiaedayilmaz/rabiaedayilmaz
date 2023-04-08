@@ -15,7 +15,7 @@ eda = {
         "Javascript", "HTML", "CSS"],
   interests: 
             ["python", "machine learning", "deep learning",
-            "books", "neuroscience", "birds", "art"],
+            "books", "neuroscience", "birds", "art", "bilbo baggins"],
   technologies: {
             technologies: ["tensorflow", "pytorch"],
             tools: ["sql", "docker", "git"],
