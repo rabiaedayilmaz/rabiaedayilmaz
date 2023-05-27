@@ -28,10 +28,11 @@ eda = {
   }
 }
 ```
+<!---
 <h3 align="center">
 <a href="https://github.com/rabiaedayilmaz/rabiaedayilmaz/blob/main/rabia_eda_yilmaz_cv.pdf" style="color:purple;">My Resume</a>
 </h3>
-
+--->
 <p align="center">
 <img align="center" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 </p>
