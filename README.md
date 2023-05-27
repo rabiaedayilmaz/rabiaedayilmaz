@@ -12,10 +12,10 @@ eda = {
   pronouns: "she/her",
   code: 
         ["Python", "C/C++", "MATLAB",
-        "Javascript", "HTML", "CSS"],
+        "Javascript"],
   interests: 
             ["python", "machine learning", "deep learning",
-            "books", "neuroscience", "birds", "art", "bilbo baggins"],
+            "books", "neuroscience", "art"],
   technologies: {
             technologies: ["tensorflow", "pytorch"],
             tools: ["sql", "docker", "git"],
